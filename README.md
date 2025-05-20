@@ -10,3 +10,26 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# React Basic App
+
+A simple React application built to demonstrate the basic concepts of ReactJS, including components, props, state, and hooks.
+
+---
+
+## Project Description
+
+This project is a beginner-friendly React app that helps new developers understand the structure of a React project. It includes multiple components and basic state management using `useState` and `useEffect`.
+
+---
+
+## Installation Instructions
+
+1. **Clone the repository:**
+
+go to commnd prompt
+git clone https://github.com/Dua0310/React-Basic-App.git
+cd React-Basic-App
+npm i 
+npm run dev
